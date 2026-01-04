@@ -200,7 +200,7 @@ with st.expander("📖 Haz clic para leer sobre nuestro año"):
 
     <div style="color: black; text-align: justify;">
 
-    Debido al honor que se me ha concedido dirigirme a tan ilustre persona, por el presente, deseo expresar mis más sinceras palabras. Ya mucha cosa mejor escribo normal. <br><br>
+    Debido al honor que se me ha concedido dirigirme a tan ilustre persona, por el presente, deseo expresar mis más sinceras palabras. Ya mucha cosa mejor escribo normal.
 
     Para empezar no sé por qué se te ocurrió pero ya, no tengo otra opción. No tengo ni la más mínima idea de qué contenido debe tener lo que vaya a escribir, pero ya pensaré en algo coherente. Habiendo ya consultado sobre lo que debe contener el texto, ya tengo una idea más clara. Empezaré.
 
